@@ -1,3 +1,2 @@
-# Ignore all .log files except survey.log
 *.log
 !survey.log
